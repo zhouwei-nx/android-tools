@@ -1,4 +1,4 @@
-package com.bjyx.android_tools;
+package com.bjyx.tools;
 
 public class ThreadResult<T>{
     private ThreadTask thread;
