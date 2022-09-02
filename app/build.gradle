@@ -1,6 +1,6 @@
-plugins {
-    id 'com.android.application'
-}
+apply plugin:'com.android.application'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.zhouwei-nx'
 
 android {
     compileSdkVersion 30
